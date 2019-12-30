@@ -154,12 +154,12 @@ id	rarity	level	priority	name	skills
 174	9	4	51	Recovery Jewel+ 4	recoverySpeed-2
 175	12	4	81	Paralyzer Jewel+ 4	paralysisAttack-2
 176	9	4	51	Medicine Jewel+ 4	recoveryUp-2
-177	12	4	51	Ironwall Jewel+ 4	guard-2
-178	11	4	51	Bomber Jewel+ 4	bombardier-2
-179	12	4	81	Blast Jewel+ 4	blastAttack-2
+177	10	4	51	Ironwall Jewel+ 4	guard-2
+178	12	4	51	Bomber Jewel+ 4	bombardier-2
+179	11	4	81	Blast Jewel+ 4	blastAttack-2
 180	12	4	51	Artillery Jewel+ 4	artillery-2
 181	12	4	41	Throttle Jewel+ 4	latentPower-2
-186	12	4	61	Physique Jewel+ 4	constitution-2
+186	10	4	61	Physique Jewel+ 4	constitution-2
 189	11	2	41	Furor Jewel+ 4	resentment-2
 194	12	4	91	Challenger Jewel+ 4	agitator-2
 207	11	4	32	Hard Fire Res Jewel 4	fireResistance-3
@@ -198,14 +198,14 @@ id	rarity	level	priority	name	skills
 5642	10	4	0	Charger/Protection Jewel+ 4	focus-1;divineBlessing-1
 5659	11	4	0	Charger/Evasion Jewel+ 4	focus-1;evadeWindow-1
 5625	10	4	0	Charger/Vitality Jewel+ 4	focus-1;healthBoost-1
-5676	0	4	0	Charger/Medicine Jewel+ 4	focus-1;recoveryUp-1
+5676	10	4	0	Charger/Medicine Jewel+ 4	focus-1;recoveryUp-1
 5648	0	4	0	Charger/Maintenance Jewel+ 4	focus-1;toolSpecialist-1
 3112	9	4	0	Crisis/Attack Jewel+ 4	resuscitate-1;attackBoost-1
 3186	9	4	0	Crisis/Physique Jewel+ 4	resuscitate-1;constitution-1
 3119	0	4	0	Crisis/Expert Jewel+ 4	resuscitate-1;criticalEye-1
 3159	9	4	0	Crisis/Evasion Jewel+ 4	resuscitate-1;evadeWindow-1
 3196	10	4	0	Crisis/Release Jewel+ 4	resuscitate-1;freeElemAmmoUp-1
-3164	0	4	0	Crisis/Handicraft Jewel+ 4	resuscitate-1;handicraft-1
+3164	10	4	0	Crisis/Handicraft Jewel+ 4	resuscitate-1;handicraft-1
 4986	12	4	0	Critical/Physique Jewel+ 4	criticalBoost-1;constitution-1
 4942	0	4	0	Critical/Protection Jewel+ 4	criticalBoost-1;divineBlessing-1
 4959	0	4	0	Critical/Evasion Jewel+ 4	criticalBoost-1;evadeWindow-1
@@ -228,7 +228,7 @@ id	rarity	level	priority	name	skills
 9242	10	4	0	Draw/Protection Jewel+ 4	criticalDraw-1;divineBlessing-1
 9259	10	4	0	Draw/Evasion Jewel+ 4	criticalDraw-1;evadeWindow-1
 9225	0	4	0	Draw/Vitality Jewel+ 4	criticalDraw-1;healthBoost-1
-9276	0	4	0	Draw/Medicine Jewel+ 4	criticalDraw-1;recoveryUp-1
+9276	10	4	0	Draw/Medicine Jewel+ 4	criticalDraw-1;recoveryUp-1
 9248	0	4	0	Draw/Maintenance Jewel+ 4	criticalDraw-1;toolSpecialist-1
 6386	12	4	0	Earplugs/Physique Jewel+ 4	earplugs-1;constitution-1
 6342	0	4	0	Earplugs/Protection Jewel+ 4	earplugs-1;divineBlessing-1
@@ -249,7 +249,7 @@ id	rarity	level	priority	name	skills
 9076	0	4	0	Flawless/Medicine Jewel+ 4	peakPerformance-1;recoveryUp-1
 9048	10	4	0	Flawless/Maintenance Jewel+ 4	peakPerformance-1;toolSpecialist-1
 5012	10	4	0	Flight/Attack Jewel+ 4	airborne-1;attackBoost-1
-5086	0	4	0	Flight/Physique Jewel+ 4	airborne-1;constitution-1
+5086	10	4	0	Flight/Physique Jewel+ 4	airborne-1;constitution-1
 5019	10	4	0	Flight/Expert Jewel+ 4	airborne-1;criticalEye-1
 5059	10	4	0	Flight/Evasion Jewel+ 4	airborne-1;evadeWindow-1
 5096	11	4	0	Flight/Release Jewel+ 4	airborne-1;freeElemAmmoUp-1
@@ -310,7 +310,7 @@ id	rarity	level	priority	name	skills
 6448	0	4	0	Handicraft/Maintenance Jewel+ 4	handicraft-1;toolSpecialist-1
 7712	0	4	0	Ironwall/Attack Jewel+ 4	guard-1;attackBoost-1
 7786	10	4	0	Ironwall/Physique Jewel+ 4	guard-1;constitution-1
-7719	0	4	0	Ironwall/Expert Jewel+ 4	guard-1;criticalEye-1
+7719	10	4	0	Ironwall/Expert Jewel+ 4	guard-1;criticalEye-1
 7759	10	4	0	Ironwall/Evasion Jewel+ 4	guard-1;evadeWindow-1
 7796	11	4	0	Ironwall/Release Jewel+ 4	guard-1;freeElemAmmoUp-1
 7764	0	4	0	Ironwall/Handicraft Jewel+ 4	guard-1;handicraft-1
@@ -329,7 +329,7 @@ id	rarity	level	priority	name	skills
 5486	11	4	0	Mighty/Physique Jewel+ 4	maximumMight-1;constitution-1
 5442	10	4	0	Mighty/Protection Jewel+ 4	maximumMight-1;divineBlessing-1
 5459	11	4	0	Mighty/Evasion Jewel+ 4	maximumMight-1;evadeWindow-1
-5425	0	4	0	Mighty/Vitality Jewel+ 4	maximumMight-1;healthBoost-1
+5425	10	4	0	Mighty/Vitality Jewel+ 4	maximumMight-1;healthBoost-1
 5476	0	4	0	Mighty/Medicine Jewel+ 4	maximumMight-1;recoveryUp-1
 5448	10	4	0	Mighty/Maintenance Jewel+ 4	maximumMight-1;toolSpecialist-1
 10086	12	4	0	Phoenix/Physique Jewel+ 4	coalescence-1;constitution-1

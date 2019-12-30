@@ -564,4 +564,5 @@ id	weaponType	rarity	name	baseAttack	baseAffinityPercent	defense	element	element
 3014	Bow	12	Beastking Thunderbow	372	-10	0	Thunder	120	false					false		4	rajang	thunder		close;power		0
 3032	Bow	12	Stygian Patientia	336	0	0	Dragon	300	false				Average	false		2	stygian-zinogre	dragon		close;power		0
 3054	Bow	12	Xeno Metora+	324	15	0	Dragon	210	false				Low	false		4;4	xeno-jiiva	dragon		close;power		0
+3074	Bow	12	Aloy's Adept War Bow	300	30	0	Thunder	270	true					false		4	event	thunder;horizon		close;paralysis;poison		0
 4054	Bow	12	Safi's Bow	312	5	0			false				Average	false		4	safi-jiiva	dragon		close;power	2	0
