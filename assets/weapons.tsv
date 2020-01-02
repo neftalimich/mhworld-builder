@@ -491,7 +491,11 @@ id	weaponType	rarity	name	baseAttack	baseAffinityPercent	defense	element	element
 3030	LightBowgun	12	Brimstren Drakevow	351	0	0								false		2	stygian-zinogre	dragon				0
 3052	LightBowgun	12	Xeno Neqiina+	351	0	0								false		4;4	xeno-jiiva	dragon		Wyvernblast		0
 3072	LightBowgun	12	Adept Stormslinger	416	0	0								false		4	event	horizon		Wyvernblast		0
-4052	LightBowgun	12	Safi's LightBowgun	325	5	0								false		4	safi-jiiva	dragon			2	0
+4055	LightBowgun	12	Safi's Hellshot	325	5	0								false		4	safi-jiiva	fire			2	0
+4056	LightBowgun	12	Safi's Aquashot	325	5	0								false		4	safi-jiiva	water			2	0
+4057	LightBowgun	12	Safi's Boltshot	325	5	0								false		4	safi-jiiva	thunder			2	0
+4058	LightBowgun	12	Safi's Frostshot	325	5	0								false		4	safi-jiiva	ice			2	0
+4059	LightBowgun	12	Safi's Drakshot	325	5	0								false		4	safi-jiiva	dragon			2	0
 2667	HeavyBowgun	11	Fatal Assault III	420	0	0								false		1;1	ore				1	0
 2669	HeavyBowgun	10	Icicle Assault II	360	30	0								false		1	barioth				1	0
 2670	HeavyBowgun	12	Ruinous Destruction	465	0	0								false		1	ruiner-nergigante					0
@@ -525,7 +529,11 @@ id	weaponType	rarity	name	baseAttack	baseAffinityPercent	defense	element	element
 3013	HeavyBowgun	12	Rajang Destroyer	495	-15	0								false		4	rajang					0
 3031	HeavyBowgun	12	Stygian Humilitas	435	0	0								false		2	stygian-zinogre	dragon				0
 3053	HeavyBowgun	12	Xeno Jiiqa+	420	0	0								false		4;4	xeno-jiiva	dragon		Wyvernheart		0
-4053	HeavyBowgun	12	Safi's HeavyBowgun	375	5	0								false		4	safi-jiiva	dragon			2	0
+4060	HeavyBowgun	12	Safi's Freezecannon	375	5	0								false		4	safi-jiiva	water;ice			2	0
+4061	HeavyBowgun	12	Safi's Scorchcannon	375	5	0								false		4	safi-jiiva	fire;thunder			2	0
+4062	HeavyBowgun	12	Safi's Snipecannon	375	5	0								false		4	safi-jiiva	pierceing			2	0
+4063	HeavyBowgun	12	Safi's Burstcannon	375	5	0								false		4	safi-jiiva	spread			2	0
+4064	HeavyBowgun	12	Safi's Rapidcannon	375	5	0								false		4	safi-jiiva	normal			2	0
 2729	Bow	11	Dragon Perforator III	312	0	0	Thunder	240	true					false		2;2	ore	thunder		close;power	1	0
 2732	Bow	12	Despot's Earlybolt	324	0	0	Thunder	240	false					false		2	zinogre	thunder		close;power		0
 2733	Bow	12	Ruinous Doom	324	0	0	Dragon	240	false				High	false		1;1	ruiner-nergigante	dragon		close;power		0
