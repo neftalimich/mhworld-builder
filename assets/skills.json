@@ -398,16 +398,16 @@
 		"description": "Grants protection from large monsters' roars.",
 		"levels": [
 			{
-				"description": "Slightly reduces the effects of weak monster roars (80%)."
+				"description": "Slightly reduces the effects of weak monster roars (+80%)."
 			},
 			{
-				"description": "Reduces the effects of weak monster roars (90%)."
+				"description": "Reduces the effects of weak monster roars (+90%)."
 			},
 			{
 				"description": "Nullifies weak monster roars."
 			},
 			{
-				"description": "Nullifies weak monster roars and reduces the effects of strong monster roars (90%)."
+				"description": "Nullifies weak monster roars and reduces the effects of strong monster roars (+90%)."
 			},
 			{
 				"description": "Nullifies weak and strong monster roars."
@@ -2331,9 +2331,10 @@
 		"description": "",
 		"levels": [
 			{
-				"description": "Regenerates your health as you continually attack a monster. Recovery varies by weapon (+20HP, +10HP or +5HP). The skill regenerates a set amount of health if you hit the monster at least 5 times within 5 seconds (every hit exceeding the first every second won't be counted)."
+				"description": "Regenerates your health as you continually attack a monster. Recovery varies by weapon. The skill regenerates a set amount of health if you hit the monster at least 5 times within 5 seconds (every hit exceeding the first every second won't be counted)."
 			}
-		]
+		],
+		"hasActiveStats": true
 	},
 	{
 		"id": "superRecovery",
@@ -2394,7 +2395,8 @@
 			{
 				"description": "An aura of frost builds when your weapon is sheathed, raising attack. Wanes each melee hit or shot fired."
 			}
-		]
+		],
+		"hasActiveStats": true
 	},
 	{
 		"id": "criticalStatus",

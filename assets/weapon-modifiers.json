@@ -6,8 +6,9 @@
 		"trueCritElementModifier": 1.70,
 		"critStatusModifier": 1.20,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 20,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 20,
+		"elementalAirborne": 1.50,
+		"frostcraft": [10, 20, 30]
 	},
 	{
 		"type": "LongSword",
@@ -16,8 +17,9 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 10,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 10,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "SwordAndShield",
@@ -26,8 +28,9 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 5,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 5,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "DualBlades",
@@ -36,8 +39,9 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 5,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 5,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "Hammer",
@@ -46,8 +50,9 @@
 		"trueCritElementModifier": 1.70,
 		"critStatusModifier": 1.20,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 20,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 20,
+		"elementalAirborne": 1.50,
+		"frostcraft": [10, 20, 30]
 	},
 	{
 		"type": "HuntingHorn",
@@ -56,8 +61,9 @@
 		"trueCritElementModifier": 1.70,
 		"critStatusModifier": 1.20,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 20,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 20,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "Lance",
@@ -66,8 +72,9 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.20,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 10,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 10,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "Gunlance",
@@ -76,8 +83,9 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 20,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 20,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "SwitchAxe",
@@ -86,8 +94,9 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 10,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 10,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "ChargeBlade",
@@ -96,8 +105,9 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 10,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 10,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "InsectGlaive",
@@ -106,8 +116,9 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 10,
-		"elementalAirborne": 2.0
+		"hastenRecovery": 10,
+		"elementalAirborne": 2.0,
+		"frostcraft": [5, 10, 25]
 	},
 	{
 		"type": "LightBowgun",
@@ -115,8 +126,9 @@
 		"critElementModifier": 1.25,
 		"critStatusModifier": 1.40,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 5,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 5,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 20]
 	},
 	{
 		"type": "HeavyBowgun",
@@ -125,8 +137,9 @@
 		"trueCritElementModifier": 1.70,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 5,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 5,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 20]
 	},
 	{
 		"type": "Bow",
@@ -135,7 +148,8 @@
 		"trueCritElementModifier": 1.55,
 		"critStatusModifier": 1.2,
 		"trueCritStatusModifier": 1.30,
-		"nergiganteHunger": 5,
-		"elementalAirborne": 1.50
+		"hastenRecovery": 5,
+		"elementalAirborne": 1.50,
+		"frostcraft": [5, 10, 20]
 	}
 ]
