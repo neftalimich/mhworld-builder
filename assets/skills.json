@@ -2224,7 +2224,7 @@
 		"levels": [
 			{
 				"description": "Powers up non-elemental weapons you have equipped.",
-				"elementlessBoostPercent": 5
+				"elementlessBoostPercent": 5.15
 			}
 		]
 	},
