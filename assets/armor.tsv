@@ -728,6 +728,16 @@ id	itemType	rarity	name	defense	fireResist	waterResist	thunderResist	iceResist	d
 1768	Arms	12	Brachydium Braces β +	170;178;188	3	-2	1	-3	1	agitator-2;brachydiosWill	4;4	raging;brachy	0
 1769	Waist	12	Brachydium Faulds  β +	170;178;188	3	-2	1	-3	1	agitator-3;brachydiosWill	4;1	raging;brachy	0
 1770	Legs	12	Brachydium Greaves  β +	170;178;188	3	-2	1	-3	1	weaknessExploit-2;brachydiosWill	4;1;1	raging;brachy	0
+1771	Head	12	Kulve Taroth's Fury α +	176;184;194	4	-2	3	-2	-4	freeMeal-1;freeElemAmmoUp-3;kulveTarothEssence		kulve;taroth	0
+1772	Chest	12	Kulve Taroth's Ire α +	176;184;194	4	-2	3	-2	-4	speedEating-3;freeMeal-1;kulveTarothEssence	3;3	kulve;taroth	0
+1773	Arms	12	Kulve Taroth's Rage α +	176;184;194	4	-2	3	-2	-4	criticalBoost-1;wideRange-3;kulveTarothEssence	3;2	kulve;taroth	0
+1774	Waist	12	Kulve Taroth's Malice α +	176;184;194	4	-2	3	-2	-4	peakPerformance-2;freeMeal-1;kulveTarothEssence	2;1;1	kulve;taroth	0
+1775	Legs	12	Kulve Taroth's Wrath α +	176;184;194	4	-2	3	-2	-4	criticalBoost-2;peakPerformance-1;kulveTarothEssence	2;1;1	kulve;taroth	0
+1776	Head	12	Kulve Taroth's Fury β +	176;184;194	4	-2	3	-2	-4	freeMeal-1;kulveTarothEssence	4;4;1	kulve;taroth	0
+1777	Chest	12	Kulve Taroth's Ire β +	176;184;194	4	-2	3	-2	-4	speedEating-3;kulveTarothEssence	4;3	kulve;taroth	0
+1778	Arms	12	Kulve Taroth's Rage β +	176;184;194	4	-2	3	-2	-4	criticalBoost-1;kulveTarothEssence	4;4	kulve;taroth	0
+1779	Waist	12	Kulve Taroth's Malice  β +	176;184;194	4	-2	3	-2	-4	peakPerformance-2;kulveTarothEssence	4;2	kulve;taroth	0
+1780	Legs	12	Kulve Taroth's Wrath  β +	176;184;194	4	-2	3	-2	-4	criticalBoost-2;kulveTarothEssence	4;1;1	kulve;taroth	0
 3001	Head	9	Oolong Hair α +	120;136;158	1	1	1	4	1	criticalEye-3;festivalBlessing	4	event	0
 3002	Chest	9	Oolong Vest α +	120;136;158	1	1	1	4	1	staminaSurge-2;festivalBlessing	4	event	0
 3003	Arms	9	Oolong Sleeves α +	120;136;158	1	1	1	4	1	coalescence-2;festivalBlessing	4	event	0
