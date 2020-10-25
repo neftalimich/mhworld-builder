@@ -169,7 +169,7 @@ id	rarity	level	priority	name	skills
 210	11	4	32	Hard Ice Res Jewel 4	iceResistance-3
 211	11	4	32	Hard Dragon Res Jewel 4	dragonResistance-3
 222	11	4	32	Hard Enduring Jewel 4	itemProlonger-3
-227	10	4	32	Hard Defense Jewel 4	defenseBoost-3
+227	10	4	52	Hard Defense Jewel 4	defenseBoost-3
 230	9	4	12	Hard Meowster Jewel 4	palicoRally-3
 233	9	4	9	Hard Intimidator Jewel 4	intimidator-3
 236	9	4	11	Hard Survival Jewel 4	survivalExpert-3
